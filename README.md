@@ -17,8 +17,8 @@
 <img align="right" alt="creative coding gif" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 - 🎨 **Product Designer & Front-End Developer**
-- 🧠 **Harvard ALM Student** — Digital Media Design + AI *(Expected May 2027)*
-- 🚀 **Founder** — Daily Habit Tracker App & VITL Holistic
+- 🧠 **Harvard ALM Student** Digital Media Design + AI *(Expected May 2027)*
+- 🚀 **Founder** Daily Habit Tracker App & VITL Holistic
 - 🌍 **Head of Web Development** @ The Hamptons Polo Club
 - 🔭 Fascinated by **Space, BioTech & MedTech**
 - 🐴 **Polo player** & sports enthusiast
